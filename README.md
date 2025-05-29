@@ -34,7 +34,7 @@
    
 Bash
 
-   cd ./telegram-logger-bot
+   cd ./telegram_bot
    
 
 2. Якщо ще немає віртуального середовища, створіть і активуйте його:
